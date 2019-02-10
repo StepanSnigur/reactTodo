@@ -1,0 +1,13 @@
+.App-link {
+  color: #61dafb;
+}
+.activeBtn {
+  background: steelblue !important;
+}
+.important {
+  font-weight: bold;
+  color: steelblue;
+}
+.done {
+  text-decoration: line-through;
+}
